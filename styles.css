@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@400;500&display=swap');
+*{
+ font-family:'Darker Grotesque';
+ font-weight: 400;
+ font-size: 20px;
+}
+h2{
+ font-weight: 500;
+ font-size: 35px;
+}
+a{
+ color:mediumaquamarine;
+ text-decoration: none;
+ font-size: 25px;
+}
+.time{
+    color:lightgrey;
+    font-size: 15px;
+}
+span{
+    background-color: lightgrey;
+    padding-right: 12px;
+}
